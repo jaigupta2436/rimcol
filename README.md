@@ -8,7 +8,7 @@
 
 ---
 
-**rimcol** stands for *rust image coloriser*. It is a command line tool written in rust to predict the rgb color pallete of a grayscale image using a CNN model written in tensorflow and python. The input image should be a **256*256** grayscale image and the output is an RGB image of the same dimension.
+**rimcol** stands for *rust image coloriser*. It is a command-line tool written in rust to predict the RGB color pallete of a grayscale image using a CNN model written in python using the *Tensor Flow* library. Users can input images of **256*256** grayscale images and the output will be RGB images of the same dimension.
 
 **Note**: The model is still in its early stages and is evolved to be more accurate with each iteration.
 
